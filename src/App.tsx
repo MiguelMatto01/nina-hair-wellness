@@ -1389,19 +1389,6 @@ function App() {
                 <p className="text-gray-400 mb-2 text-sm">Premium Hair Wellness Studio</p>
                 <p className="text-gold mb-3 text-sm font-medium">Certified by Floractive Australia</p>
 
-                <a
-                  href="https://edeed.com.au/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center gap-2 text-sm text-gray-400 hover:text-white transition-colors group"
-                >
-                  <span>Made by EDEED</span>
-                  <img
-                    src="/edeed-logo-mobile.png"
-                    alt="EDEED Logo"
-                    className="w-6 h-6 transition-transform group-hover:scale-110"
-                  />
-                </a>
               </div>
 
               {/* Contact Info */}
